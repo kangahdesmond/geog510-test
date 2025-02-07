@@ -1,4 +1,4 @@
-I am Desmond Kangah and I am Happy learning how to design geospatial softwarw package.
+I am Desmond Kangah and I am Happy learning how to design geospatial software package.
 
  I want to create my own packages in the futures for geospatial analysis.
 
