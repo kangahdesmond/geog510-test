@@ -3,3 +3,5 @@ I am Desmond Kangah and I am Happy learning how to design geospatial software pa
  I want to create my own packages in the futures for geospatial analysis.
 
  Gis is a very interesting field to be  and I am very happy to be in this field.
+
+ I am doing masters in civil engineering with concentration in Insar, analysis, remote sensing and photogrammetry.
